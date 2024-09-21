@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>XV LESLY</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital@0;1&family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <section id="carousel" class="section">
+        <div class="carousel">
+            <div class="slide"><img src="imagenes/imagen1.JPG" alt="Imagen 1"></div>
+            <div class="slide"><img src="imagenes/imagen2.JPG" alt="Imagen 2"></div>
+            <div class="slide"><img src="imagenes/imagen3.JPG" alt="Imagen 3"></div>
+        </div>
+    </section>
+
+    <section id="section1" class="section">
+        <p>Hoy comienza otra etapa, otros ánimos,<br>
+        otros sueños, atrás quedaron imborrables<br>
+        recuerdos y se formaran otros. Hoy la fantasía<br>
+        se hace realidad, en compañía de mis Padres</p><br>
+        <h3>Carlos Eduardo Leija Medellín<br>Y<br>Thelma Cisneros Gutiérrez</h3><br>
+        <p>Tengo el honor de invitarte a mis</p>
+        <h3>XV Años</h3>
+        <h2>Lesly Lizeth</h2>
+    </section>
+
+    <section id="imagenes">
+        <img src="imagenes/imagen5.JPG" alt="Imagen 5">
+    </section>
+
+    <section id="map" class="section">    
+        <h3>Domingo 01 de Septiembre</h3>
+        <h2>19:00 Hrs</h2>
+        <h2>Misa</h2>
+        <p>Parroquia Santa<br>Teresa de Ávila</p>
+        <button>
+            <a href="https://maps.app.goo.gl/yruWn8GJc4wZiPAA7">VER UBICACIÓN</a>
+        </button>
+        <h2>19:30 Hrs</h2>
+        <h2>Recepción</h2>
+        <p>Casino Camino<br>Real Oro</p>
+        <button>
+            <a href="https://maps.app.goo.gl/Cy7SWKTmBA8Jt8H9A">VER UBICACIÓN</a>
+        </button>
+    </section>
+
+    <section id="countdown" class="half-section">
+        <h2>Save The Date</h2><br>
+        <div id="countdown-timer"></div><br>
+        <h3></h3>
+    </section>
+
+    <section id="form" class="section">
+        <h2>Confirmación de Asistencia</h2><br>
+        <p>¡Me encantaría compartir este momento tan especial contigo!</p>
+        <p>Por favor, confirma si contaré con tu presencia.</p><br>
+        <form id="confirmation-form""> 
+            <label for="nombre:">
+                <select name="nombre" id="nombre" required onchange="mostrarOpciones()">
+                    <option value="Selecciona">Selecciona tu nombre</option>
+                    <option value="Adan Salazar">Adan Salazar</option>
+                    <option value="Alfonso Martinez">Alfonso Martinez</option>
+                    <option value="Alondra Rodriguez">Alondra Rodriguez</option>
+                    <option value="Ana Esquivel">Ana Esquivel</option>
+                    <option value="Angel Esquivel">Angel Esquivel</option>
+                    <option value="Carmen Medellín">Carmen Medellín</option>
+                    <option value="Carolina Saldaña">Carolina Saldaña</option>
+                    <option value="Cecilia Rodríguez">Cecilia Rodríguez</option>
+                    <option value="Charly Juarez">Charly Juarez</option>
+                    <option value="Edgar Esquivel">Edgar Esquivel</option>
+                    <option value="Fam. Acevedo Rocha">Fam. Acevedo Rocha</option>
+                    <option value="Fam. Alvarado Estrada">Fam. Alvarado Estrada</option>
+                    <option value="Fam. Benavides Leija">Fam. Benavides Leija</option>
+                    <option value="Fam. Benavides Martinez">Fam. Benavides Martinez</option>
+                    <option value="Fam. Campa Cisneros">Fam. Campa Cisneros</option>
+                    <option value="Fam. Cepeda Cortes">Fam. Cepeda Cortes</option>
+                    <option value="Fam. Cisneros Gutierrez">Fam. Cisneros Gutierrez</option>
+                    <option value="Fam. Corral Esquivel">Fam. Corral Esquivel</option>
+                    <option value="Fam. Escobedo Leija">Fam. Escobedo Leija</option>
+                    <option value="Fam. Esquivel Chaires">Fam. Esquivel Chaires</option>
+                    <option value="Fam. Esquivel Cisneros">Fam. Esquivel Cisneros</option>
+                    <option value="Fam. Esquivel Oviedo">Fam. Esquivel Oviedo</option>
+                    <option value="Fam. Esquivel Pecina">Fam. Esquivel Pecina</option>
+                    <option value="Fam. Fuentes Cepeda">Fam. Fuentes Cepeda</option>
+                    <option value="Fam. Guardado Pecina">Fam. Guardado Pecina</option>
+                    <option value="Fam. Ibarra Estrada">Fam. Ibarra Estrada</option>
+                    <option value="Fam. López Díaz">Fam. López Díaz</option>
+                    <option value="Fam. Luna Gonzalez">Fam. Luna Gonzalez</option>
+                    <option value="Fam. Mancillas Pecina">Fam. Mancillas Pecina</option>
+                    <option value="Fam. Medrano de León">Fam. Medrano de León</option>
+                    <option value="Fam. Medrano Pesina">Fam. Medrano Pesina</option>
+                    <option value="Fam. Meza Flores">Fam. Meza Flores</option>
+                    <option value="Fam. Muñiz Campa">Fam. Muñiz Campa</option>
+                    <option value="Fam. Pecina Sifuentes">Fam. Pecina Sifuentes</option>
+                    <option value="Fam. Rocha Torres">Fam. Rocha Torres</option>
+                    <option value="Fam. Rodríguez Hernandez">Fam. Rodríguez Hernandez</option>
+                    <option value="Fam. Santos Cisneros">Fam. Santos Cisneros</option>
+                    <option value="Fam. Sauceda Gutierrez">Fam. Sauceda Gutierrez</option>
+                    <option value="Fam. Saucedo Martinez">Fam. Saucedo Martinez</option>
+                    <option value="Fam. Tienda Cisneros">Fam. Tienda Cisneros</option>
+                    <option value="Fam. Vazquez Sandoval">Fam. Vazquez Sandoval</option>
+                    <option value="Fam. Vigil Esquivel">Fam. Vigil Esquivel</option>
+                    <option value="Gabriela Machuca Parra">Gabriela Machuca Parra</option>
+                    <option value="Genesis Cepeda">Genesis Cepeda</option>
+                    <option value="Gerardo Leija">Gerardo Leija</option>
+                    <option value="Gerardo Reyes">Gerardo Reyes</option>
+                    <option value="Horalia Carmona">Horalia Carmona</option>
+                    <option value="Israel Leija">Israel Leija</option>
+                    <option value="Jhonatan Gallegos Marfileño">Jhonatan Gallegos Marfileño</option>
+                    <option value="José Martinez">José Martinez</option>
+                    <option value="Juan Guardado">Juan Guardado</option>
+                    <option value="Juany Ruiz">Juany Ruiz</option>
+                    <option value="Martha Pecina">Martha Pecina</option>
+                    <option value="Milton Cepeda">Milton Cepeda</option>
+                    <option value="Mónica Reyes">Mónica Reyes</option>
+                    <option value="Orlando Benavides">Orlando Benavides</option>
+                    <option value="Ricardo Tavares">Ricardo Tavares</option>
+                    <option value="Thomas Martinez">Thomas Martinez</option>
+                </select>
+            </label><br><br>
+        
+            <div id="opciones" class="hidden">
+                <label for="Confirmación de Asistencia"></label>
+                <button type="button" onclick="mostrarInvitados(true)" class="formbutton">Asistiré</button>
+                <button type="button" onclick="mostrarInvitados(false)" class="formbutton">No asistiré</button><br><br>
+
+                <div id="invitados" class="hidden">
+                    <p id="mensajePase"></p>
+                    <input type="number" id="num_invitados" name="num_invitados" min="0" placeholder="Número de invitados"><br>
+                </div>
+            </div>
+
+            <button type="submit" id="confirmar-btn" class="hidden" onclick="enviarWhatsApp()">Confirmar</button>
+        </form>
+    </section>
+    
+    <section id="imagenes">
+        <img src="imagenes/imagen4.JPG" alt="Imagen 4">
+    </section>
+
+    <section id="section1" class="half-section">
+        <p>Tu compañía es el mejor regalo que podría recibir en este día especial.<br>
+        <br>Sin embargo, si te sientes generoso,
+        <br>¡Un sobre o un detalle siempre serán bienvenidos!<br>
+        <br>¡Nos vemos pronto!</p>
+    </section>
+    
+    <script src="script.js"></script>
+    <script src="Google Sheets.js"></script>
+</body>
+</html>
