@@ -183,8 +183,23 @@ input[type="submit"]:hover {
 }
 
 #dress-code {
-    text-align: center;
+    display: flex;
+    justify-content: center;
     margin-top: 30px;
+}
+
+.dress-code-card {
+    background-color: #fff;
+    border-radius: 15px;
+    padding: 20px;
+    width: 300px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra difuminada */
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out; /* Transición para efecto hover */
+}
+
+.dress-code-card:hover {
+    transform: translateY(-5px); /* Eleva la tarjeta al pasar el cursor */
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Incrementa la sombra al hover */
 }
 
 .dress-code-content {
@@ -203,9 +218,11 @@ input[type="submit"]:hover {
     font-family: 'Poppins', sans-serif;
     font-weight: 600;
     margin-bottom: 15px;
+    text-align: center;
 }
 
 #dress-code p {
     font-family: 'Playfair Display', serif;
     font-size: 18px;
+    text-align: center;
 }
