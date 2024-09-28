@@ -209,7 +209,7 @@ input[type="submit"]:hover {
 
 .dress-code-icon {
   margin-bottom: 10px;
-  width: 1em;  /* El tamaño será relativo al tamaño de la fuente */
+  width: 5em;  /* El tamaño será relativo al tamaño de la fuente */
   height: auto;
 }
 
