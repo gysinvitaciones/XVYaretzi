@@ -208,9 +208,8 @@ input[type="submit"]:hover {
 }
 
 .dress-code-icon {
-  color: #DAC1F9;
   margin-bottom: 10px;
-  width: 120px;  /* El tamaño será relativo al tamaño de la fuente */
+  width: 240px;  /* El tamaño será relativo al tamaño de la fuente */
   height: auto;
 }
 
