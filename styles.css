@@ -211,7 +211,7 @@ input[type="submit"]:hover {
   font-size: 80px;
   color: #DAC1F9;
   margin-bottom: 10px;
-  width: 5em;  /* El tamaño será relativo al tamaño de la fuente */
+  width: 2.5em;  /* El tamaño será relativo al tamaño de la fuente */
   height: auto;
 }
 
