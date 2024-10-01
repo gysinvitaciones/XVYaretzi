@@ -85,7 +85,7 @@ const maxInvitadosPorAsistente = {
     'Sra Leonor Montoya': 2,
     'Fam. Molina Quezada': 3,
     'Paloma Ramos': 2,
-    'Sr Alejandro Luna y Fam': 4,
+    'Sr Alejandro Luna y Fam': 4
 };
 
 function mostrarOpciones() {
