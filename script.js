@@ -146,7 +146,8 @@ function enviarWhatsApp() {
     }
 
     var mensaje = `Hola, soy ${nombre}. ${asistira === "Sí" ? `Asistiremos ${numInvitados} persona(s).` : `No podré asistir.`}`;
-    var url = `https://wa.me/${numero}?text=${encodeURIComponent(mensaje)}`;
+    var numero  = "8118926229"
+    var url     = `https://wa.me/${numero}?text=${encodeURIComponent(mensaje)}`;
 
     window.open(url, '_blank');
 }
