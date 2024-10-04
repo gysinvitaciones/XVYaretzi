@@ -89,7 +89,7 @@ const maxInvitadosPorAsistente = {
     'Ramón Gómez Rivas y Sra': 2,
     'Felipe de Jesús Lozano Martínez y Sra': 2,
     'Laura Reyes Hernández': 2,
-    'Gloria Méndez': 2
+    'Gloria Méndez': 2,
     'Jazmín Cepeda': 2
 };
 
