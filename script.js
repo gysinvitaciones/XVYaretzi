@@ -90,6 +90,7 @@ const maxInvitadosPorAsistente = {
     'Felipe de Jesús Lozano Martínez y Sra': 2,
     'Laura Reyes Hernández': 2,
     'Gloria Méndez': 2
+    'Jazmín Cepeda': 2
 };
 
 function mostrarOpciones() {
