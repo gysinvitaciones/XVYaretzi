@@ -91,7 +91,7 @@ const maxInvitadosPorAsistente = {
     'Laura Reyes Hernández': 2,
     'Gloria Méndez': 2,
     'Jazmín Cepeda': 2,
-    'Juana Esthela Barrera': 2
+    'Juana Esthela Barrera': 2,
     'Fam. Gandara Ríos': 6,
     'Fam. Hernández Gandara’: 4,
     'Sr. Raúl Hernández Ríos y Fam.': 6,
