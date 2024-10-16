@@ -92,7 +92,12 @@ const maxInvitadosPorAsistente = {
     'Gloria Méndez': 2,
     'Jazmín Cepeda': 2,
     'Juana Esthela Barrera': 2
-    
+    'Fam. Gandara Ríos': 6,
+    'Fam. Hernández Gandara’: 4,
+    'Sr. Raúl Hernández Ríos y Fam.': 6,
+    'Sr. Francisco Hernández Rios y Fam.': 6,
+    'Fam. Gandara Villanueva': 4,
+    'Fam. Gandara González': 4
 };
 
 function mostrarOpciones() {
