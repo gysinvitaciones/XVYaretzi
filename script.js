@@ -67,7 +67,7 @@ const maxInvitadosPorAsistente = {
     'Juanita Hernández Rodriguez': 2,
     'Clarita Hernandez Rodriguez': 2,
     'Sra Rosa Solis Aguilera': 4,
-    'Sr. Antonio Solis Aguilera': 6,
+    'Sr. Antonio Solis Aguilera': 8,
     'Sr. Pedro Lopez Chavez y Familia': 6,
     'Claudia Lopez Solis': 2,
     'Fam. Molina Lopez': 4,
