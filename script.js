@@ -50,7 +50,7 @@ const maxInvitadosPorAsistente = {
     'Fam. Hernández Gutierrez': 4,
     'Oscar Hernández Ríos y Sra': 2,
     'Guadalupe Hernández Rivera y Sra': 2,
-    'Guadalupe Tojas Borda': 3,
+    'Guadalupe Rojas Borda': 3,
     'Fam. Monsivais Hernández': 6,
     'Kelly Monsivais Hernandez': 5,
     'Evelyn Monsivais Hernandez': 5,
