@@ -98,7 +98,8 @@ const maxInvitadosPorAsistente = {
     'Sr. Raúl Hernández Ríos y Fam.': 6,
     'Sr. Francisco Hernández Rios y Fam.': 6,
     'Fam. Gandara Villanueva': 4,
-    'Fam. Gandara González': 4
+    'Fam. Gandara González': 4,
+    'Sra Margarita Roldán': 3
 };
 
 function mostrarOpciones() {
