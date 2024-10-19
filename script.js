@@ -91,7 +91,7 @@ const maxInvitadosPorAsistente = {
     'Felipe de Jesús Lozano Martínez y Sra': 2,
     'Laura Reyes Hernández': 2,
     'Gloria Méndez': 2,
-    'Jazmín Cepeda': 2,
+    'Jazmín Cepeda': 3,
     'Juana Esthela Barrera': 2,
     'Fam. Gandara Ríos': 6,
     'Fam. Hernández Gandara': 4,
