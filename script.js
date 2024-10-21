@@ -99,7 +99,10 @@ const maxInvitadosPorAsistente = {
     'Sr. Francisco Hernández Rios y Fam.': 6,
     'Fam. Gandara Villanueva': 4,
     'Fam. Gandara González': 4,
-    'Sra Margarita Roldán': 3
+    'Sra Margarita Roldán': 3,
+    'María del Refugio Meza Victorio': 3,
+    'Fam. Vargas Zapata': 4,
+    'Fam. Rosas Ramírez': 6
 };
 
 function mostrarOpciones() {
