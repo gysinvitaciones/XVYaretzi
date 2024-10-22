@@ -102,7 +102,8 @@ const maxInvitadosPorAsistente = {
     'Sra Margarita Roldán': 3,
     'María del Refugio Meza Victorio': 3,
     'Fam. Vargas Zapata': 4,
-    'Fam. Rosas Ramírez': 6
+    'Fam. Rosas Ramírez': 6,
+    'Sr Alfredo Contreras Manzanares': 4
 };
 
 function mostrarOpciones() {
