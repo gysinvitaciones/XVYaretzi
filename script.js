@@ -103,7 +103,8 @@ const maxInvitadosPorAsistente = {
     'María del Refugio Meza Victorio': 3,
     'Fam. Vargas Zapata': 4,
     'Fam. Rosas Ramírez': 6,
-    'Sr Alfredo Contreras Manzanares': 4
+    'Sr Alfredo Contreras Manzanares': 4,
+    'Fam. Cano Hernández': 5
 };
 
 function mostrarOpciones() {
